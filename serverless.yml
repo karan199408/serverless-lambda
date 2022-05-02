@@ -24,4 +24,4 @@ provider:
 
 functions:
   hello:
-    handler: src/handler.generateRandomNumbers
+    handler: src/handler.randomNumberGenerator
